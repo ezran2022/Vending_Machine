@@ -26,7 +26,7 @@ we will continue let you choose  what you want to drink till  the quantity is le
 ### This is how Vending Machine Application work!!!!!
 
 
-###code
+### code
 ```java
 public class Machine {
     private Item[][] items;
